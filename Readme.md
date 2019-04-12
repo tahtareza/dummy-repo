@@ -13,28 +13,19 @@ Here is how you can contribute to this repository
 ```bash
 $ git clone [url]
 ```
+3. Create, edit, or delete file
 
-3. Create a new local branch
-
-```bash
-$ git branch [nama-branch]
-```
-
-4. Move to created branch
-
-```bash
-$ git checkout [nama-branch]
-```
-
-5. Create a new commit on that branch
+4. Create a new commit
 
 ```bash
 $ git add .
 $ git commit -m "pesan"
 ```
 
-6. Push branch to github
+5. Push branch to github
 
 ```bash
-$ git push origin [nama-branch]
+$ git push origin master
 ```
+
+6. Create pull request
